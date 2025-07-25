@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Пепперони",
+    "description": "Классическая пицца с пепперони",
+    "price": "от 345 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Маргарита",
+    "description": "Пицца с сыром",
+    "price": "от 445 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Комбо №1",
+    "description": "Пицца, напиток и десерт по скидке",
+    "price": "от 555 р",
+    "imageName": "combo",
+    "category": "Комбо"
+  },
+  {
+    "name": "Тирамису",
+    "description": "Тирамису с клубничным соусом",
+    "price": "от 350 р",
+    "imageName": "cake",
+    "category": "Десерты"
+  },
+  {
+    "name": "Кока-кола",
+    "description": "Охлаждённый напиток без сахара",
+    "price": "от 49 р",
+    "imageName": "drinks",
+    "category": "Напитки"
+  },
+  {
+    "name": "Аррива",
+    "description": "Классическая пицца с томатами и сыром моцарелла",
+    "price": "от 485 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Пепперони",
+    "description": "Пицца с пепперони и острым соусом",
+    "price": "от 555 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Комбо №2",
+    "description": "Пицца, напиток и десерт по скидке",
+    "price": "от 845 р",
+    "imageName": "combo",
+    "category": "Комбо"
+  },
+  {
+    "name": "Наполеон",
+    "description": "Классический чизкейк с клубничным соусом",
+    "price": "от 95 р",
+    "imageName": "cake",
+    "category": "Десерты"
+  },
+  {
+    "name": "Фанта",
+    "description": "Охлаждённый напиток без сахара",
+    "price": "от 99 р",
+    "imageName": "drinks",
+    "category": "Напитки"
+  },
+  {
+    "name": "Ветчина и сыр ",
+    "description": "Классическая пицца с томатами и сыром моцарелла",
+    "price": "от 345 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Диабло",
+    "description": "Пицца с пепперони и острым соусом",
+    "price": "от 555 р",
+    "imageName": "pizza",
+    "category": "Пицца"
+  },
+  {
+    "name": "Комбо №3",
+    "description": "Пицца, напиток и десерт по скидке",
+    "price": "от 885 р",
+    "imageName": "combo",
+    "category": "Комбо"
+  },
+  {
+    "name": "Чизкейк",
+    "description": "Классический чизкейк с клубничным соусом",
+    "price": "от 195 р",
+    "imageName": "cake",
+    "category": "Десерты"
+  },
+  {
+    "name": "Спрайт",
+    "description": "Охлаждённый напиток без сахара",
+    "price": "от 85 р",
+    "imageName": "drinks",
+    "category": "Напитки"
+  }
+]
